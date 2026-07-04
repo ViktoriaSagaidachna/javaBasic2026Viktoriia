@@ -44,5 +44,18 @@ public class App {
                 currency,
                 sales
         );
+        /*
+
+        Вивід в консоліну був такий:
+Product No 1: smartphone
+total sales for 5 days is EUR 12152,41
+sales by day is EUR 2430,48
+----------------------
+Product No 2: laptop
+total sales for 7 days is EUR 10486,85
+sales by day is EUR 1498,12
+
+Process finished with exit code 0
+        */
     }
 }
