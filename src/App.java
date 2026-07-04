@@ -55,7 +55,6 @@ Product No 2: laptop
 total sales for 7 days is EUR 10486,85
 sales by day is EUR 1498,12
 
-Process finished with exit code 0
         */
     }
 }
